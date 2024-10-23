@@ -1,1 +1,1 @@
-Hell is other peoples code
+Hell is other people's code
