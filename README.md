@@ -1,1 +1,1 @@
-Don't panic
+Pursuing readme-driven design
